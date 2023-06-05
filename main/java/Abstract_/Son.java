@@ -11,6 +11,6 @@ public class Son extends Father
     @Override
     public void eat()
     {
-        System.out.println(name+"要吃饭了");
+        //System.out.println(name+"要吃饭了");
     }
 }

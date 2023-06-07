@@ -36,9 +36,6 @@ public class Generic_02
     public MyStack(T[] arr) {
         this.arr = arr;
     }
-
-
-
     //入栈（方法名：push）
     public T[] push(T x)
     {

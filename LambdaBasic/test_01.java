@@ -19,7 +19,6 @@ public class test_01
         t2.m1();
     }
 }
-
 interface in1
 {
     public void m1();
